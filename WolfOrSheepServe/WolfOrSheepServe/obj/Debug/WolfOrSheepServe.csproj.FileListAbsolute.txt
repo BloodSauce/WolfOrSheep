@@ -1,0 +1,6 @@
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\bin\Debug\WolfOrSheepServe.exe.config
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\obj\Debug\WolfOrSheepServe.csprojResolveAssemblyReference.cache
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\bin\Debug\WolfOrSheepServe.exe
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\bin\Debug\WolfOrSheepServe.pdb
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\obj\Debug\WolfOrSheepServe.exe
+D:\Program\WolfOrSheep\WolfOrSheepServe\WolfOrSheepServe\obj\Debug\WolfOrSheepServe.pdb
